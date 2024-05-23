@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 1600px;
+    height: 2000px;
+    background: linear-gradient(#ffffff, #e6e6e6, #808080);
+}
+
+.metro{
+    top: 243px;
+    left: 143px;
+    width: 196px;
+    height: 44px;
+    position: absolute;
+    z-index: 1;
+}
+
+.rectangulo-3{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    position: absolute;
+    z-index: -1;
+}
+
+.comprar{
+    top: 240px;
+    left: 800px;
+    width: 230px;
+    height: 41px;
+    position: absolute;
+    z-index: 1;
+    font-size: 30px;
+    font-style: 'Open Sans';
+    text-decoration: none;
+    color: #000000;
+}
+
+.ver{
+    top: 242px;
+    left: 1075px;
+    width: 132px;
+    height: 41px;
+    position: absolute;
+    z-index: 1;
+    font-size: 30px;
+    font-style: 'Open Sans';
+    text-decoration: none;
+    color: #000000;
+}
+
+.tarjeta{
+    top: 303px;
+    left: 459px;
+    width: 576px;
+    height: 324px;
+    position: absolute;
+    z-index: 1;
+    
+}
+.pepito{
+    top: 600px;
+    left: 401px;
+    width: 700px;
+    height: 55px;
+    position: absolute;
+    z-index: 1;
+    font-size: 40px;
+    font-style: 'Open Sans';
+}
+.saldoActual {
+    top: 677px;
+    left: 583px;
+    width: 329px;
+    height: 37px;
+    position: absolute;
+    z-index: 1;
+    font-size: 27px;
+    font-style: 'Open Sans';
+}
+.saldoEscogido {
+    top: 744px;
+    left: 639px;
+    width: 200px;
+    height: 37px;
+    position: absolute;
+    z-index: 1;
+    font-size: 27px;
+    font-style: 'Open Sans';
+}
+
+.boton{
+    background-color: white;
+    top: 799px;
+    left: 595px;
+    width: 288px;
+    height: 58px;
+    text-align: center;
+    position: absolute;
+    z-index: -1;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    opacity: 1;
+        p{
+            font-size: 27px;
+            font-style: 'Open Sans';
+            color: black;
+            opacity: 0.5;
+        }
+}
+
+.rectangulo-1{
+    top: 200px;
+    left: 1390px;
+    width: 110px;
+    height: 800px;
+    position: absolute;
+    z-index: -1;
+}
+
+.linea-1{
+    top: 303px;
+    left: 1065px;
+    width: 146px;
+    height: 0px;
+    border: 2px solid var(--unnamed-color-212020);
+    background: transparent url('img/Line 1.png') 0% 0% no-repeat padding-box;
+    border: 2px solid #212020;
+    opacity: 1;
+    position: absolute;
+    z-index: 1;
+}
+
+.arriba{
+    color: white;
+    top: 240px;
+    left: 1433px;
+    width: 24px;
+    height: 14px;
+    position: absolute;
+    z-index: 1;
+}
+
+.abajo{
+    top: 946px;
+    left: 1433px;
+    width: 24px;
+    height: 14px;
+    position: absolute;
+    z-index: 1;
+    color: white;
+}
+
+.cantidad{
+    top: 349px;
+    left: 1403px;
+    width: 84px;
+    height: 27px;
+    color: white;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+}
+.precio{
+    top: 507px;
+    left: 1417px;
+    width: 57px;
+    height: 27px;
+    position: absolute;
+    z-index: 1;
+    font-size: 20px;
+    font-style: 'Open Sans';
+    color: white;
+}
+
+.precio-2{
+    top: 587px;
+    left: 1417px;
+    width: 57px;
+    height: 27px;
+    position: absolute;
+    z-index: 1;
+    font-size: 20px;
+    font-style: 'Open Sans';
+    color: white;
+}
+
+.precio-3{
+    top: 667px;
+    left: 1417px;
+    width: 57px;
+    height: 27px;
+    position: absolute;
+    z-index: 1;
+    font-size: 20px;
+    font-style: 'Open Sans';
+    color: white;
+}
+
+.rectangulo-2{
+    top: 847px;
+    left: 1180px;
+    width: 160px;
+    height: 114px;
+    position: absolute;
+    z-index: 1;
+}
+
+.metro-2{
+    top: 876px;
+    left: 1195px;
+    width: 129px;
+    height: 29px;
+    position: absolute;
+    z-index: 1;
+}
+
+.comprar-2{
+    top: 917px;
+    left: 1210px;
+    width: 111px;
+    height: 36px;
+    position: absolute;
+    z-index: 1;
+    font-size: 26px;
+    font-style: 'Open Sans';
+}
