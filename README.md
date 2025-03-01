@@ -22,5 +22,10 @@
  - Interfaz de Usuario Intuitiva: Fácil de navegar con opciones claramente definidas para comprar y verificar el saldo.
  - Estilo Moderno: Uso de fuentes y colores que proporcionan una apariencia moderna y atractiva.
 
-# 📱 Contacto
-  Para cualquier pregunta o comentario sobre el proyecto, por favor contacta con [Elidallana Cristancho] a través de [cristanchodayana062017@gmail.com].
+____
+### 📬 Contacto
+- 📧 Correo electrónico: cristanchodayana062017@gmail.com
+
+- 💼 LinkedIn: [Elidallana Cristancho Caceres](https://www.linkedin.com/in/elidallanacristancho/)
+
+¡Gracias por ser parte de esta aventura! 🚀✨
